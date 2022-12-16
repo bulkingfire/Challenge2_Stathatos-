@@ -35,10 +35,10 @@ Deployed on the github pages
 
 ## Usage
 
-Link to the website can be found here: https://bulkingfire.github.io/Challenge1_Stathatos-/
+Link to the website can be found here: https://bulkingfire.github.io/Challenge2_Stathatos-/
 
 Screenshot:
-![screenshot](assets/images/screenshot.PNG)
+![screenshot](assets/snap.PNG)
 
 ## Credits
 
